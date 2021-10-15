@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/drawable/ic_facebook_3_1.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/drawable/ic_icon_notification.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/drawable/ic_icon_notification__1_.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/drawable/ic_resturant_image.xml" value="0.3671875" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/drawable/menu_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/font/annie_use_your_telescope.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/font/architects_daughter.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/font/arizonia.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/font/audiowide.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/font/diplomata.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/font/lily_script_one.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/font/ultra.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/layout/activity_live_data.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Taha/AndroidStudioProjects/TahaAricanodev12/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
